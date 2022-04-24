@@ -2,8 +2,10 @@ Experiment No. 8 (Mini-Project)
 Aim: Sentiment Analysis of IMDB Movie Reviews with NLP and Machine Learning
 Name of Group Members: 
 4 – Deep Singh Bhamra
+7 - Aaryen D'souza
 82 – Arvind Choudhary
 126 – Sharan Sukesh
+133 - Mokshik Trivedi
 Theory:
 Sentiment analysis is contextual mining of text which identifies and extracts subjective information in source material, and helping a business to understand the social sentiment of their brand, product or service while monitoring online conversations. However, analysis of social media streams is usually restricted to just basic sentiment analysis and count based metrics. This is akin to just scratching the surface and missing out on those high value insights that are waiting to be discovered. So, what should a brand do to capture that low hanging fruit?
 With the recent advances in deep learning, the ability of algorithms to analyse text has improved considerably. Creative use of advanced artificial intelligence techniques can be an effective tool for doing in-depth research. We believe it is important to classify incoming customer conversation about a brand based on following lines:
